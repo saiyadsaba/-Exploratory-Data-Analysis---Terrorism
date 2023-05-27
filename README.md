@@ -1,4 +1,4 @@
-This Python code performs data cleaning, analysis, and visualization on a dataset of terrorist attacks using pandas and matplotlib. Here's a very short GitHub note:
+This Python code performs data cleaning, analysis, and visualization on a dataset of terrorist attacks using pandas and matplotlib.
 
 Code Summary-------
 
